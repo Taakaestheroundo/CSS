@@ -1,0 +1,20 @@
+.a:active,  .a:active{
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+}
+.a:hover, .a.a:hover{
+    color: aqua;
+    font-size: 30px;
+}
+.a:visited .a.a:visited{
+    color: aqua;
+    text-decoration: underline;
+}
+.contain{
+    gap: 2rem;
+    display: inline-flex;
+}
+body{
+    background-color: chartreuse;
+}

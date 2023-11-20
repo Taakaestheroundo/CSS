@@ -1,0 +1,11 @@
+image{ position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+
+
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gold;
+}

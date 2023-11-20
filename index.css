@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    background-color: rgb(255, 0, 0);
+    color: chartreuse;
+}
+
+.row-containers{
+    display: flex;
+    gap: 3rem;
+    letter-spacing: 5px;
+    background-color: darkmagenta;
+    color: azure;
+}
+body{
+    background-color: rgb(21, 128, 0);
+}

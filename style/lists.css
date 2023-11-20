@@ -1,0 +1,15 @@
+.a {
+    list-style: circle;
+}
+.b {
+    list-style: square;
+}
+.c {
+    list-style: upper-alpha;
+}
+.d {
+    list-style: lower-alpha;
+}
+body{
+    background-color: aqua;
+}

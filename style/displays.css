@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+    color: aqua;
+}
+.grid{
+    display: grid;
+    color: blue;
+}
+.blocks{
+    display: block;
+    text-decoration: antiquewhite;
+    text-align: left;
+    text-transform: uppercase;
+    color: blueviolet(45,50,179);
+    
+}
+.inline{
+    display: inline;
+    text-align: center;
+    text-wrap: wrap;
+    text-transform: capitalize;
+}
+body{
+    background-color: deeppink;
+}
